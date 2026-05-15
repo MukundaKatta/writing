@@ -1,0 +1,268 @@
+[
+  {
+    "id": 3675832,
+    "title": "Desktop Agents Are The Next Big Trust Problem",
+    "slug": "desktop-agents-are-the-next-big-trust-problem-14ai",
+    "url": "https://dev.to/mukundakatta/desktop-agents-are-the-next-big-trust-problem-14ai",
+    "canonical": "https://dev.to/mukundakatta/desktop-agents-are-the-next-big-trust-problem-14ai",
+    "tags": [
+      "ai",
+      "agents",
+      "security",
+      "automation"
+    ],
+    "published_at": "2026-05-15T07:23:28.203Z",
+    "md_path": "/tmp/devto_articles/desktop-agents-are-the-next-big-trust-problem-14ai.md"
+  },
+  {
+    "id": 3675820,
+    "title": "Your API Docs Are For Agents Now",
+    "slug": "your-api-docs-are-for-agents-now-16a0",
+    "url": "https://dev.to/mukundakatta/your-api-docs-are-for-agents-now-16a0",
+    "canonical": "https://dev.to/mukundakatta/your-api-docs-are-for-agents-now-16a0",
+    "tags": [
+      "ai",
+      "api",
+      "agents",
+      "mcp"
+    ],
+    "published_at": "2026-05-15T07:21:50.165Z",
+    "md_path": "/tmp/devto_articles/your-api-docs-are-for-agents-now-16a0.md"
+  },
+  {
+    "id": 3675808,
+    "title": "The Hidden Cost of Coding Agents Is Review Fatigue",
+    "slug": "the-hidden-cost-of-coding-agents-is-review-fatigue-327h",
+    "url": "https://dev.to/mukundakatta/the-hidden-cost-of-coding-agents-is-review-fatigue-327h",
+    "canonical": "https://dev.to/mukundakatta/the-hidden-cost-of-coding-agents-is-review-fatigue-327h",
+    "tags": [
+      "ai",
+      "programming",
+      "productivity",
+      "softwaredevelopment"
+    ],
+    "published_at": "2026-05-15T07:19:12.271Z",
+    "md_path": "/tmp/devto_articles/the-hidden-cost-of-coding-agents-is-review-fatigue-327h.md"
+  },
+  {
+    "id": 3675799,
+    "title": "Agentic Browsers Are Becoming Their Own Developer Platform",
+    "slug": "agentic-browsers-are-becoming-their-own-developer-platform-12hc",
+    "url": "https://dev.to/mukundakatta/agentic-browsers-are-becoming-their-own-developer-platform-12hc",
+    "canonical": "https://dev.to/mukundakatta/agentic-browsers-are-becoming-their-own-developer-platform-12hc",
+    "tags": [
+      "ai",
+      "agents",
+      "browser",
+      "automation"
+    ],
+    "published_at": "2026-05-15T07:16:56.789Z",
+    "md_path": "/tmp/devto_articles/agentic-browsers-are-becoming-their-own-developer-platform-12hc.md"
+  },
+  {
+    "id": 3675786,
+    "title": "MCP Is Everywhere Now. The Next Problem Is Governance.",
+    "slug": "mcp-is-everywhere-now-the-next-problem-is-governance-17if",
+    "url": "https://dev.to/mukundakatta/mcp-is-everywhere-now-the-next-problem-is-governance-17if",
+    "canonical": "https://dev.to/mukundakatta/mcp-is-everywhere-now-the-next-problem-is-governance-17if",
+    "tags": [
+      "ai",
+      "agents",
+      "mcp",
+      "devtools"
+    ],
+    "published_at": "2026-05-15T07:13:42.900Z",
+    "md_path": "/tmp/devto_articles/mcp-is-everywhere-now-the-next-problem-is-governance-17if.md"
+  },
+  {
+    "id": 3675757,
+    "title": "10 Agentic AI Trends Developers Should Watch in 2026",
+    "slug": "10-agentic-ai-trends-developers-should-watch-in-2026-3ehf",
+    "url": "https://dev.to/mukundakatta/10-agentic-ai-trends-developers-should-watch-in-2026-3ehf",
+    "canonical": "https://dev.to/mukundakatta/10-agentic-ai-trends-developers-should-watch-in-2026-3ehf",
+    "tags": [
+      "ai",
+      "agents",
+      "mcp",
+      "devtools"
+    ],
+    "published_at": "2026-05-15T07:08:28.424Z",
+    "md_path": "/tmp/devto_articles/10-agentic-ai-trends-developers-should-watch-in-2026-3ehf.md"
+  },
+  {
+    "id": 3675707,
+    "title": "Why I refused to build a Dreaming clone for OSS Claude",
+    "slug": "why-i-refused-to-build-a-dreaming-clone-for-oss-claude-2631",
+    "url": "https://dev.to/mukundakatta/why-i-refused-to-build-a-dreaming-clone-for-oss-claude-2631",
+    "canonical": "https://dev.to/mukundakatta/why-i-refused-to-build-a-dreaming-clone-for-oss-claude-2631",
+    "tags": [
+      "opensource",
+      "llm",
+      "agents",
+      "ai"
+    ],
+    "published_at": "2026-05-15T07:00:46.092Z",
+    "md_path": "/tmp/devto_articles/why-i-refused-to-build-a-dreaming-clone-for-oss-claude-2631.md"
+  },
+  {
+    "id": 3648260,
+    "title": "Agents that monitor themselves: a self-auditing RAG on Tiger's Agentic Postgres",
+    "slug": "agents-that-monitor-themselves-a-self-auditing-rag-on-tigers-agentic-postgres-3661",
+    "url": "https://dev.to/mukundakatta/agents-that-monitor-themselves-a-self-auditing-rag-on-tigers-agentic-postgres-3661",
+    "canonical": "https://dev.to/mukundakatta/agents-that-monitor-themselves-a-self-auditing-rag-on-tigers-agentic-postgres-3661",
+    "tags": [
+      "devchallenge",
+      "agenticpostgreschallenge",
+      "ai",
+      "postgres"
+    ],
+    "published_at": "2026-05-11T09:11:36.517Z",
+    "md_path": "/tmp/devto_articles/agents-that-monitor-themselves-a-self-auditing-rag-on-tigers-agentic-postgres-3661.md"
+  },
+  {
+    "id": 3648250,
+    "title": "Hardening a Notion MCP workflow with seven small utility MCP servers",
+    "slug": "hardening-a-notion-mcp-workflow-with-seven-small-utility-mcp-servers-1eho",
+    "url": "https://dev.to/mukundakatta/hardening-a-notion-mcp-workflow-with-seven-small-utility-mcp-servers-1eho",
+    "canonical": "https://dev.to/mukundakatta/hardening-a-notion-mcp-workflow-with-seven-small-utility-mcp-servers-1eho",
+    "tags": [
+      "devchallenge",
+      "notionchallenge",
+      "mcp",
+      "ai"
+    ],
+    "published_at": "2026-05-11T09:10:06.389Z",
+    "md_path": "/tmp/devto_articles/hardening-a-notion-mcp-workflow-with-seven-small-utility-mcp-servers-1eho.md"
+  },
+  {
+    "id": 3648243,
+    "title": "Making Gemma 4 (e2b) production-safe with five tiny libraries",
+    "slug": "making-gemma-4-e2b-production-safe-with-five-tiny-libraries-59k4",
+    "url": "https://dev.to/mukundakatta/making-gemma-4-e2b-production-safe-with-five-tiny-libraries-59k4",
+    "canonical": "https://dev.to/mukundakatta/making-gemma-4-e2b-production-safe-with-five-tiny-libraries-59k4",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma",
+      "opensource"
+    ],
+    "published_at": "2026-05-11T09:08:33.735Z",
+    "md_path": "/tmp/devto_articles/making-gemma-4-e2b-production-safe-with-five-tiny-libraries-59k4.md"
+  },
+  {
+    "id": 3648241,
+    "title": "22 OSS packages in 24 hours: what each one earned its slot",
+    "slug": "22-oss-packages-in-24-hours-what-each-one-earned-its-slot-503",
+    "url": "https://dev.to/mukundakatta/22-oss-packages-in-24-hours-what-each-one-earned-its-slot-503",
+    "canonical": "https://dev.to/mukundakatta/22-oss-packages-in-24-hours-what-each-one-earned-its-slot-503",
+    "tags": [
+      "hacktoberfest",
+      "opensource",
+      "llm",
+      "rust"
+    ],
+    "published_at": "2026-05-11T09:08:30.277Z",
+    "md_path": "/tmp/devto_articles/22-oss-packages-in-24-hours-what-each-one-earned-its-slot-503.md"
+  },
+  {
+    "id": 3648134,
+    "title": "Your RAG works on Claude. Does it work on Gemma 4? Drift detection across model families.",
+    "slug": "your-rag-works-on-claude-does-it-work-on-gemma-4-drift-detection-across-model-families-3035",
+    "url": "https://dev.to/mukundakatta/your-rag-works-on-claude-does-it-work-on-gemma-4-drift-detection-across-model-families-3035",
+    "canonical": "https://dev.to/mukundakatta/your-rag-works-on-claude-does-it-work-on-gemma-4-drift-detection-across-model-families-3035",
+    "tags": [
+      "gemma",
+      "rag",
+      "llm",
+      "observability"
+    ],
+    "published_at": "2026-05-11T08:57:26.894Z",
+    "md_path": "/tmp/devto_articles/your-rag-works-on-claude-does-it-work-on-gemma-4-drift-detection-across-model-families-3035.md"
+  },
+  {
+    "id": 3648118,
+    "title": "I shipped 14 MCP servers this week. Gemma 4 changes which ones matter.",
+    "slug": "i-shipped-14-mcp-servers-this-week-gemma-4-changes-which-ones-matter-1klk",
+    "url": "https://dev.to/mukundakatta/i-shipped-14-mcp-servers-this-week-gemma-4-changes-which-ones-matter-1klk",
+    "canonical": "https://dev.to/mukundakatta/i-shipped-14-mcp-servers-this-week-gemma-4-changes-which-ones-matter-1klk",
+    "tags": [
+      "gemmachallenge",
+      "llm",
+      "agents",
+      "mcp"
+    ],
+    "published_at": "2026-05-11T08:52:20.663Z",
+    "md_path": "/tmp/devto_articles/i-shipped-14-mcp-servers-this-week-gemma-4-changes-which-ones-matter-1klk.md"
+  },
+  {
+    "id": 3632098,
+    "title": "Six Reliability Primitives for LLM Agents",
+    "slug": "six-reliability-primitives-for-llm-agents-m13",
+    "url": "https://dev.to/mukundakatta/six-reliability-primitives-for-llm-agents-m13",
+    "canonical": "https://dev.to/mukundakatta/six-reliability-primitives-for-llm-agents-m13",
+    "tags": [
+      "ai",
+      "llm",
+      "mcp",
+      "opensource"
+    ],
+    "published_at": "2026-05-08T08:31:49.694Z",
+    "md_path": "/tmp/devto_articles/six-reliability-primitives-for-llm-agents-m13.md"
+  },
+  {
+    "id": 3629587,
+    "title": "Choosing Gemma 4 for Local AI Apps: A Builder's Field Guide",
+    "slug": "choosing-gemma-4-for-local-ai-apps-a-builders-field-guide-5105",
+    "url": "https://dev.to/mukundakatta/choosing-gemma-4-for-local-ai-apps-a-builders-field-guide-5105",
+    "canonical": "https://dev.to/mukundakatta/choosing-gemma-4-for-local-ai-apps-a-builders-field-guide-5105",
+    "tags": [
+      "gemma",
+      "gemmachallenge",
+      "devchallenge",
+      "ai"
+    ],
+    "published_at": "2026-05-07T23:34:58.097Z",
+    "md_path": "/tmp/devto_articles/choosing-gemma-4-for-local-ai-apps-a-builders-field-guide-5105.md"
+  },
+  {
+    "id": 3629498,
+    "title": "I Built BriefBench: A Gemma 4 Tool That Turns Messy Notes Into Model Decisions",
+    "slug": "i-built-briefbench-a-gemma-4-tool-that-turns-messy-notes-into-model-decisions-3m5p",
+    "url": "https://dev.to/mukundakatta/i-built-briefbench-a-gemma-4-tool-that-turns-messy-notes-into-model-decisions-3m5p",
+    "canonical": "https://dev.to/mukundakatta/i-built-briefbench-a-gemma-4-tool-that-turns-messy-notes-into-model-decisions-3m5p",
+    "tags": [
+      "gemma",
+      "gemmachallenge",
+      "devchallenge"
+    ],
+    "published_at": "2026-05-07T23:10:00.318Z",
+    "md_path": "/tmp/devto_articles/i-built-briefbench-a-gemma-4-tool-that-turns-messy-notes-into-model-decisions-3m5p.md"
+  },
+  {
+    "id": 3622691,
+    "title": "I Got Burned by Prompt Injection in Production. Here Are 2 Tiny npm Libs That Stopped It.",
+    "slug": "i-got-burned-by-prompt-injection-in-production-here-are-2-tiny-npm-libs-that-stopped-it-438i",
+    "url": "https://dev.to/mukundakatta/i-got-burned-by-prompt-injection-in-production-here-are-2-tiny-npm-libs-that-stopped-it-438i",
+    "canonical": "https://dev.to/mukundakatta/i-got-burned-by-prompt-injection-in-production-here-are-2-tiny-npm-libs-that-stopped-it-438i",
+    "tags": [
+      "aisecurityragjavascript"
+    ],
+    "published_at": "2026-05-06T19:18:22.197Z",
+    "md_path": "/tmp/devto_articles/i-got-burned-by-prompt-injection-in-production-here-are-2-tiny-npm-libs-that-stopped-it-438i.md"
+  },
+  {
+    "id": 3619626,
+    "title": "I Built 5 Tiny Libraries to Stop My AI Agents from Misbehaving in Production",
+    "slug": "i-built-5-tiny-libraries-to-stop-my-ai-agents-from-misbehaving-in-production-3oni",
+    "url": "https://dev.to/mukundakatta/i-built-5-tiny-libraries-to-stop-my-ai-agents-from-misbehaving-in-production-3oni",
+    "canonical": "https://dev.to/mukundakatta/i-built-5-tiny-libraries-to-stop-my-ai-agents-from-misbehaving-in-production-3oni",
+    "tags": [
+      "ai",
+      "javascript",
+      "opensource",
+      "agents"
+    ],
+    "published_at": "2026-05-06T08:28:15.726Z",
+    "md_path": "/tmp/devto_articles/i-built-5-tiny-libraries-to-stop-my-ai-agents-from-misbehaving-in-production-3oni.md"
+  }
+]
